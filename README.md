@@ -2,7 +2,11 @@
 
 Ali Habibnia
 
-A course on asymptotic econometric theory for i.i.d. data and time series, with Python examples.
+A course on asymptotic econometric theory, with Python examples. The outline connects probability limits to estimation and inference, including regression, likelihood, generalized method of moments (GMM), hypothesis testing, and resampling.
+
+For graduate students, researchers, and quantitatively trained practitioners familiar with probability, calculus, linear algebra, and regression.
+
+Use M01–M13 as the main study sequence. The advanced extensions cover specialised topics, including empirical processes, nonparametric inference, unit roots, and failures of regular asymptotics.
 
 ## Core sequence at a glance
 
